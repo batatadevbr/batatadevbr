@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/batatadevbr/batatadevbr/refs/heads/main/banner2.png"
+    alt="batata.dev - Ideias que viram tecnologia"
+    width="100%"
+  />
+</p>
+
 # 🥔 batata.dev
 ### Ideias que viram tecnologia.
 
